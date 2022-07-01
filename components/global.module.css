@@ -1,0 +1,13 @@
+.container {
+  margin-left: 3rem;
+  margin-top: 3rem;
+}
+
+.todoNormal {
+  font-size: 3rem;
+}
+
+.todoComplete {
+  color: red;
+  font-size: 3rem;
+}
